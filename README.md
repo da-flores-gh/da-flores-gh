@@ -1,6 +1,6 @@
 <h1>Hi, I'm David!</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>[Active Directory Home Lab](https://github.com/da-flores-gh/fixthisurl)</b>
 - <b>[Firewall Setup & Configuration](https://github.com/da-flores-gh/fixthisurl)</b>
