@@ -1,7 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm David!</h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>[Active Directory Home Lab](https://github.com/da-flores-gh/fixthisurl)</b>
+- <b>[Firewall Setup & Configuration](https://github.com/da-flores-gh/fixthisurl)</b>
+- <b>[Coding/Scripting a Password Strength Checker](https://github.com/da-flores-gh/fixthisurl)</b>
+
+<h2>📺 Certifications</h2>
+
+- <b>[CompTIA Security +](https://www.credly.com/badges/522a29a7-5b84-4e5d-a192-67e217cfcb14/public_url)</b>
+
+<h2> 🤳 Connect with me:</h2>
+
+- <b>[LinkedIn](https://linkedin.com/in/da-flores)</b>
 
 <!--
-**da-flores-gh/da-flores-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
